@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;500;600&display=swap');
+*{
+    font-family:'Manrope', sans-serif;;
+}
+
+#card{
+    bottom: 68px;
+    right: 40%;
+}
+
+#find-doctor-card{
+    top: 10%;
+    left: 45%;
+}
+
+#box{
+    /* z-index: -1; */
+}
+#hero{
+    background: url("/images/Ellipse\ 1bg.png");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: 750px;
+}
+
+#find-doctor{
+    background: url("/images/Ellipse\ 6bg.png");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: 700px;
+}
